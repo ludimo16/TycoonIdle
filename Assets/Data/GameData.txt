@@ -1,0 +1,34 @@
+<gamedata>
+    <CompanyName>Enoch SL</CompanyName>
+    <StartingBalance>2.25</StartingBalance>
+        <store>
+            <name>Hotel</name>
+            <BaseStoreCost>1</BaseStoreCost>
+            <BaseStoreProfit>0.5</BaseStoreProfit>
+            <StoreTimer>5</StoreTimer>
+            <image>hotel</image>
+            <StoreMultiplier>1.1</StoreMultiplier>
+            <StoreTimerDivision>20</StoreTimerDivision>
+            <StoreCount>1</StoreCount>
+        </store>
+        <store>
+            <name>Super Market</name>
+            <BaseStoreCost>7</BaseStoreCost>
+            <BaseStoreProfit>1</BaseStoreProfit>
+            <StoreTimer>12</StoreTimer>
+            <image>supermarket</image>
+            <StoreMultiplier>1.2</StoreMultiplier>
+            <StoreTimerDivision>25</StoreTimerDivision>
+            <StoreCount>0</StoreCount>
+        </store>
+        <store>
+            <name>Burger</name>
+            <BaseStoreCost>300</BaseStoreCost>
+            <BaseStoreProfit>12</BaseStoreProfit>
+            <StoreTimer>55</StoreTimer>
+            <image>Burger</image>
+            <StoreMultiplier>1.2</StoreMultiplier>
+            <StoreTimerDivision>25</StoreTimerDivision>
+            <StoreCount>0</StoreCount>
+        </store>
+</gamedata>
